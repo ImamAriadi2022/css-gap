@@ -1,0 +1,132 @@
+
+body {
+    background-color: #333;
+}
+
+p {
+    color: #fff;
+}
+
+
+.colomb1 {
+    background-color: #f00;
+    border-radius: 8px;
+    width: 5rem;
+    height: 5rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.colomb2 {
+    background-color: rgb(25, 0, 255);
+    border-radius: 8px;
+    width: 5rem;
+    height: 5rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.colomb3 {
+    background-color: rgb(151, 30, 131);
+    border-radius: 8px;
+    width: 5rem;
+    height: 5rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.colomb4 {
+    background-color: rgb(14, 200, 217);
+    border-radius: 8px;
+    width: 5rem;
+    height: 5rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.colomb5 {
+    background-color: rgb(114, 118, 0);
+    border-radius: 8px;
+    width: 5rem;
+    height: 5rem;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
+
+
+
+
+
+.container {
+    display : flex;
+    gap: 10px;
+    flex-direction: column;
+}
+.row {
+    display: flex;
+    gap: 10px
+}
+
+.row2 {
+    display: flex;
+    gap: 10px;
+}
+
+
+
+
+
+
+/* konten awal */
+.container2 {
+    display: flex;
+    gap:20px;
+    flex-direction:column;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.div1{
+    background-color: #f00;
+    border-radius : 8px;
+    width: 6rem;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div2 {
+    background: rgb(19, 50, 140);
+    border-radius : 8px;
+    width: 6rem;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div3 {
+    background-color: rgb(6, 147, 27);
+    border-radius : 8px;
+    width: 6rem;
+    height: 6rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
